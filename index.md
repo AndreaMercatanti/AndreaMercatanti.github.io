@@ -1,4 +1,4 @@
-## Publications
+# Publications
 - **A Regression Discontinuity Design for ordinal running variables: evaluating Central Bank purchases of corporate bonds**. with F. Li, T. Makinen, and A. Silvestrini. _The Annals of Applied Statistics_. Fortcoming.
 - **Identifying types in contest experiments**. with F. Fallucchi and J. Niederreiter. _International Journal of Game Theory_. Forthcoming. 
 - **The role of financial factors for European corporate investment**. (2019) with T. Makinen and A. Silvestrini. _Journal of International Money and Finance_, Vol. 96.
@@ -15,29 +15,6 @@ Statistics_, Vol. 55.
 
 ## Works in progress
 - **A joint Bayesian framework for causal inference and bipartite matching for record linkage**. with S. Guha and J. Reiter.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Welcome to GitHub Pages
 
