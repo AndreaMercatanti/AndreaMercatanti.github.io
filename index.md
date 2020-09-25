@@ -1,5 +1,5 @@
 ## Publications
-- **ttt** with _poi_
+- **The role of financial factors for European corporate investment** (2019), with _T. Makinen and A. Silvestrini_. Journal of International Money and Finance.
 - ggg
 
 
