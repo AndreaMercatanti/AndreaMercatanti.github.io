@@ -1,6 +1,6 @@
 ## Publications
-- **The role of financial factors for European corporate investment** (2019), with _T. Makinen and A. Silvestrini_. Journal of International Money and Finance.
-- ggg
+- **The role of financial factors for European corporate investment**. (2019) with T. Makinen and A. Silvestrini. _Journal of International Money and Finance_.
+- **Do debit cards decrease cash demand?: Causal inference and sensitivity analysis using Principal Stratification**. (2017) with F.Li. _Journal of the Royal Statistical Society: Series C (Applied Statistics)_.
 
 
 
