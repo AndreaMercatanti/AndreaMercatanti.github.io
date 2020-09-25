@@ -10,7 +10,7 @@ Statistics_, Vol. 55.
 - **Analyzing a randomized experiment with imperfect compliance and ignorable conditions for missing data: theoretical and computational issues**. (2004) _Computational Statistics and Data Analysis_, Vol. 46.
 - **Effects of the use of debit and credit cards on Italian families liquidity: an empirical evaluation**. (2002) _Italian Journal of Applied Sstatistics_, Vol. 14.
 
-##Working papers
+## Working papers
 - **Evaluation of language training programs in Luxembourg using Principal Stratification**. (2018) with M. Bia and A. Flores-Lagunes. IZA, Institute of Labor Economics, Discussion papers series, n.11973.
 
 
