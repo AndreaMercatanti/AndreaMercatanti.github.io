@@ -1,10 +1,12 @@
 ## Publications
 - **Identifying types in contest experiments**. with F. Fallucchi and J. Niederreiter. _International Journal of Game Theory_. Forthcoming. 
-- **The role of financial factors for European corporate investment**. (2019) with T. Makinen and A. Silvestrini. _Journal of International Money and Finance_, Vol.96.
-- **Do debit cards decrease cash demand?: Causal inference and sensitivity analysis using Principal Stratification**. (2017) with F. Li. _Journal of the Royal Statistical Society: Series C (Applied Statistics)_, Vol.66.
-- **Improving inference of Gaussian mixtures using auxiliary variables**. (2015) with F. Li and F. Mealli. _Statistical Analysis and Data Mining_, Vol.8.
-- **Do debit cards increase household spending? Evidence from a semiparametric causal analysis of a survey**. (2014) with F. Li. _The Annals of Applied Statistics_, Vol.8.
-
+- **The role of financial factors for European corporate investment**. (2019) with T. Makinen and A. Silvestrini. _Journal of International Money and Finance_, Vol. 96.
+- **Do debit cards decrease cash demand?: Causal inference and sensitivity analysis using Principal Stratification**. (2017) with F. Li. _Journal of the Royal Statistical Society: Series C (Applied Statistics)_, Vol. 66.
+- **Improving inference of Gaussian mixtures using auxiliary variables**. (2015) with F. Li and F. Mealli. _Statistical Analysis and Data Mining_, Vol. 8.
+- **Do debit cards increase household spending? Evidence from a semiparametric causal analysis of a survey**. (2014) with F. Li. _The Annals of Applied Statistics_, Vol. 8.
+- **A likelihood-based analysis for relaxing the exclusion restriction in randomized experiments with nonmcompliance**. (2013) _Australian and New Zealand Journal of
+Statistics_, Vol. 55.
+- **Analyzing a randomized experiment with imperfect compliance and ignorable conditions for missing data: theoretical and computational issues**. (2004) _Computational Statistics and Data Analysis_, Vol. 46.
 
 
 ## Welcome to GitHub Pages
