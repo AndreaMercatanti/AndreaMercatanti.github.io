@@ -7,6 +7,7 @@
 - **A likelihood-based analysis for relaxing the exclusion restriction in randomized experiments with nonmcompliance**. (2013) _Australian and New Zealand Journal of
 Statistics_, Vol. 55.
 - **Analyzing a randomized experiment with imperfect compliance and ignorable conditions for missing data: theoretical and computational issues**. (2004) _Computational Statistics and Data Analysis_, Vol. 46.
+- **Effects of the use of debit and credit cards on Italian families liquidity: an empirical evaluation**. (2002) _Italian Journal of Applied Sstatistics_, Vol. 14.
 
 
 ## Welcome to GitHub Pages
