@@ -1,6 +1,8 @@
 ## Publications
-- **The role of financial factors for European corporate investment**. (2019) with T. Makinen and A. Silvestrini. _Journal of International Money and Finance_.
-- **Do debit cards decrease cash demand?: Causal inference and sensitivity analysis using Principal Stratification**. (2017) with F.Li. _Journal of the Royal Statistical Society: Series C (Applied Statistics)_.
+- **The role of financial factors for European corporate investment**. (2019) with T. Makinen and A. Silvestrini. _Journal of International Money and Finance_, Vol.96.
+- **Do debit cards decrease cash demand?: Causal inference and sensitivity analysis using Principal Stratification**. (2017) with F. Li. _Journal of the Royal Statistical Society: Series C (Applied Statistics)_, Vol.66.
+- **Improving inference of Gaussian mixtures using auxiliary variables**. (2015) with F. Li and F. Mealli. _Statistical Analysis and Data Mining_, Vol.8.
+- **Do debit cards increase household spending? Evidence from a semiparametric causal analysis of a survey**. (2014) with F. Li. _The Annals of Applied Statistics_, Vol.8.
 
 
 
