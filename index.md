@@ -21,7 +21,7 @@ I am an econometrician at the Bank of Italy (Eurosystem) and hold and MS (Hons) 
 - **Do debit cards increase household spending? Evidence from a semiparametric causal analysis of a survey**. (2014) with F. Li. _The Annals of Applied Statistics_, Vol. 8.
 - **A likelihood-based analysis for relaxing the exclusion restriction in randomized experiments with nonmcompliance**. (2013) _Australian and New Zealand Journal of
 Statistics_, Vol. 55.
-- **Household wealth in a cross-country perspective**. (2012) with L. Bartiloro, M. Coletta, and R. De Bonis, R, in _The financial systems of industrialized countries. Evidence from the financial accounts_, De Bonis, R, Pozzolo, A, Ed.s, Springer, Chapter 4, pp 91-125.
+- **Household wealth in a cross-country perspective**. (2012) with L. Bartiloro, M. Coletta, and R. De Bonis, R, in _The financial systems of industrialized countries. Evidence from the financial accounts_, De Bonis, R, Pozzolo, A, Ed.s, Springer, Chapter 4.
 - **Analyzing a randomized experiment with imperfect compliance and ignorable conditions for missing data: theoretical and computational issues**. (2004) _Computational Statistics and Data Analysis_, Vol. 46.
 - **Effects of the use of debit and credit cards on Italian families liquidity: an empirical evaluation**. (2002) _Italian Journal of Applied Statistics_, Vol. 14.
 
