@@ -9,8 +9,8 @@ I am an econometrician at the Bank of Italy (Eurosystem) and hold and MS (Hons) 
 # Research interests
 - Causal inference, policy evaluation, applied microeconometrics.
 
-[comment]: <> (# Publications)
-# Peer-reviewed Articles
+# Publications
+## Peer-reviewed Articles
 - **A Regression Discontinuity Design for ordinal running variables: evaluating Central Bank purchases of corporate bonds**. with F. Li, T. Makinen, and A. Silvestrini. _The Annals of Applied Statistics_. Forthcoming.
 - **Identifying types in contest experiments**. with F. Fallucchi and J. Niederreiter. _International Journal of Game Theory_. Forthcoming. 
 - **The role of financial factors for European corporate investment**. (2019) with T. Makinen and A. Silvestrini. _Journal of International Money and Finance_, Vol. 96.
@@ -24,10 +24,10 @@ Statistics_, Vol. 55.
 - **Analyzing a randomized experiment with imperfect compliance and ignorable conditions for missing data: theoretical and computational issues**. (2004) _Computational Statistics and Data Analysis_, Vol. 46.
 - **Effects of the use of debit and credit cards on Italian families liquidity: an empirical evaluation**. (2002) _Italian Journal of Applied Statistics_, Vol. 14.
 
-# Working papers
+## Working papers
 - **Evaluation of language training programs in Luxembourg using Principal Stratification**. (2018) with M. Bia and A. Flores-Lagunes. IZA, Institute of Labor Economics, Discussion papers series, n.11973.
 
-# Works in progress
+## Works in progress
 - **A joint Bayesian framework for causal inference and bipartite matching for record linkage**, with S. Guha and J. Reiter.
 - **Assessing Causal Effects in a longitudinal observational study with “truncated” outcomes due to unemployment and nonignorable missing data**, with M .Bia and A. Mattei.
 - **Effects of Central Bank Holdings of Corporate Bonds**, with F. Li, T. Makinen and A. Silvestrini
