@@ -7,7 +7,7 @@ I am an econometrician at the Bank of Italy and hold and MS (Hons) in Economics,
 [comment]: <> (andrea.mercatanti@bancaditalia.it)
 
 # Research interests
-- Causal inference, policy evaluation, applied econometrics.
+- Causal inference, policy evaluation, applied microeconometrics.
 
 # Publications
 
