@@ -1,4 +1,4 @@
-I am a statistician at the Bank of Italy and hold and MS (Hons) in Economics, and a PhD in Applied Statistics both from the University of Florence.
+I am an econometrician at the Bank of Italy and hold and MS (Hons) in Economics, and a PhD in Applied Statistics both from the University of Florence.
 
 [comment]: <> (Bank of Italy\)
 [comment]: <> (Via Nazionale 91\)
