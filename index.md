@@ -19,6 +19,7 @@ Statistics_, Vol. 55.
 
 ## Works in progress
 - **A joint Bayesian framework for causal inference and bipartite matching for record linkage**, with S. Guha and J. Reiter.
+- **Assessing Causal Effects in a longitudinal observational study with “truncated” outcomes due to unemployment and nonignorable missing data**, with M .Bia and A. Mattei.
 - **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions**, with A. Albanese, F. Li, and J. and Poulos. 
 
 ## Welcome to GitHub Pages
