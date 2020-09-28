@@ -18,7 +18,8 @@ Statistics_, Vol. 55.
 - **Evaluation of language training programs in Luxembourg using Principal Stratification**. (2018) with M. Bia and A. Flores-Lagunes. IZA, Institute of Labor Economics, Discussion papers series, n.11973.
 
 ## Works in progress
-- **A joint Bayesian framework for causal inference and bipartite matching for record linkage**. with S. Guha and J. Reiter.
+- **A joint Bayesian framework for causal inference and bipartite matching for record linkage**, with S. Guha and J. Reiter.
+- **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions**, with A. Albanese, F. Li, and J. and Poulos. 
 
 ## Welcome to GitHub Pages
 
