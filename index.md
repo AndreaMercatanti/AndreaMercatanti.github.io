@@ -1,3 +1,5 @@
+I am a statistician at the Banca d'Italia and hold and BMS (Hons) in Economics, and a PhD in Applied Statistics both from the University of Florence.
+
 # Research interests
 - Causal inference, policy evaluation, applied econometrics.
 
