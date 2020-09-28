@@ -34,7 +34,7 @@ Statistics_, Vol. 55.
 - **Effects of Central Bank Holdings of Corporate Bonds**, with F. Li, T. Makinen and A. Silvestrini
 - **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions**, with A. Albanese, F. Li, and J. Poulos. 
 
-[comment]: <> (
+<!---
 
 ## Welcome to GitHub Pages
 
@@ -73,4 +73,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-)
+
+-->
