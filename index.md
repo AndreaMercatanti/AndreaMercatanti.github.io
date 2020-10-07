@@ -32,6 +32,7 @@ Statistics_, Vol. 55.
 - **Assessing Causal Effects in a longitudinal observational study with “truncated” outcomes due to unemployment and nonignorable missing data**, with M .Bia and A. Mattei.
 - **Effects of eligibility for central bank purchases on corporate bond spreads**, with <a href="https://tanelimakinen.github.io" style="font-weight:normal">T. Makinen</a>, F. Li, and A. Silvestrini
 - **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions**, with A. Albanese, F. Li, and J. Poulos.
+- **Spillover effects of central bank asset purchases** with T. Makinen and A. Silvestrini.  
 
 # Contacts
 Andrea Mercatanti\
