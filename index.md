@@ -30,7 +30,7 @@ Statistics_, Vol. 55.
 ## Works in progress
 - **A joint Bayesian framework for causal inference and bipartite matching for record linkage**, with S. Guha and J. Reiter.
 - **Assessing Causal Effects in a longitudinal observational study with “truncated” outcomes due to unemployment and nonignorable missing data**, with M .Bia and A. Mattei.
-- **Effects of Central Bank Holdings of Corporate Bonds**, with F. Li, <a href="https://tanelimakinen.github.io" style="font-weight:normal">T. Makinen</a> and A. Silvestrini
+- **Effects of eligibility for central bank purchases on corporate bond spreads**, with <a href="https://tanelimakinen.github.io" style="font-weight:normal">T. Makinen</a>, F. Li, and A. Silvestrini
 - **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions**, with A. Albanese, F. Li, and J. Poulos.
 
 # Contacts
