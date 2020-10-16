@@ -25,12 +25,12 @@ Statistics_, Vol. 55.
 - **Effects of the use of debit and credit cards on Italian families liquidity: an empirical evaluation**. (2002) _Italian Journal of Applied Statistics_, Vol. 14.
 
 ## Working papers
+- **Effects of eligibility for central bank purchases on corporate bond spreads**, with <a href="https://tanelimakinen.github.io" style="font-weight:normal">T. Makinen</a>, F. Li, and A. Silvestrini. _Bank for International Settlements (BIS) Working Papers_. Forthcoming.
 - **Evaluation of language training programs in Luxembourg using Principal Stratification**. (2018) with M. Bia and A. Flores-Lagunes. IZA, Institute of Labor Economics, Discussion papers series, n.11973.
 
 ## Works in progress
 - **A joint Bayesian framework for causal inference and bipartite matching for record linkage**, with S. Guha and J. Reiter.
 - **Assessing Causal Effects in a longitudinal observational study with “truncated” outcomes due to unemployment and nonignorable missing data**, with M .Bia and A. Mattei.
-- **Effects of eligibility for central bank purchases on corporate bond spreads**, with <a href="https://tanelimakinen.github.io" style="font-weight:normal">T. Makinen</a>, F. Li, and A. Silvestrini
 - **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions**, with A. Albanese, F. Li, and J. Poulos.
 - **Spillover effects of central bank asset purchases** with T. Makinen and A. Silvestrini.  
 
