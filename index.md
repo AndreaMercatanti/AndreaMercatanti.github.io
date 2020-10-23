@@ -11,8 +11,8 @@ I am an econometrician at the Bank of Italy (Eurosystem) and hold and MS (Hons) 
 
 # Publications
 [comment]: <> (## Peer-reviewed Articles)
-- **A Regression Discontinuity Design for ordinal running variables: evaluating Central Bank purchases of corporate bonds**. with F. Li, T. Makinen, and A. Silvestrini. _The Annals of Applied Statistics_. Forthcoming.
-- **Identifying types in contest experiments**. with F. Fallucchi and J. Niederreiter. _International Journal of Game Theory_. Forthcoming. 
+- **A Regression Discontinuity Design for ordinal running variables: evaluating Central Bank purchases of corporate bonds**. (2020) with F. Li, T. Makinen, and A. Silvestrini. _The Annals of Applied Statistics_. Forthcoming.
+- **Identifying types in contest experiments**. (2020) with F. Fallucchi and J. Niederreiter. _International Journal of Game Theory_. Forthcoming. 
 - **The role of financial factors for European corporate investment**. (2019) with T. Makinen and A. Silvestrini. _Journal of International Money and Finance_, Vol. 96.
 - **Do debit cards decrease cash demand?: Causal inference and sensitivity analysis using Principal Stratification**. (2017) with F. Li. _Journal of the Royal Statistical Society: Series C (Applied Statistics)_, Vol. 66.
 - **Improving inference of Gaussian mixtures using auxiliary variables**. (2015) with F. Li and F. Mealli. _Statistical Analysis and Data Mining_, Vol. 8.
