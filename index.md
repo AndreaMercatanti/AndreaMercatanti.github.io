@@ -26,7 +26,7 @@ Statistics_, Vol. 55.
 
 ## Working papers
 - **Effects of eligibility for central bank purchases on corporate bond spreads**, with <a href="https://tanelimakinen.github.io" style="font-weight:normal">T. Makinen</a>, F. Li, and A. Silvestrini. _Bank for International Settlements (BIS) Working Papers n. 894_.
-- **Evaluation of language training programs in Luxembourg using Principal Stratification**. (2018) with M. Bia and A. Flores-Lagunes. IZA, Institute of Labor Economics, Discussion papers series, n.11973.
+- **Evaluation of language training programs in Luxembourg using Principal Stratification**. (2018) with M. Bia and A. Flores-Lagunes. _IZA, Institute of Labor Economics, Discussion papers series, n. 11973_.
 
 ## Works in progress
 - **A joint Bayesian framework for causal inference and bipartite matching for record linkage**, with S. Guha and J. Reiter.
