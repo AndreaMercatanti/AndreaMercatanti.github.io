@@ -25,7 +25,8 @@ Statistics_, Vol. 55.
 - **Effects of the use of debit and credit cards on Italian families liquidity: an empirical evaluation**. (2002) _Italian Journal of Applied Statistics_, Vol. 14.
 
 ## Working papers
-- **Effects of eligibility for central bank purchases on corporate bond spreads**, ##with <a href="https://tanelimakinen.github.io" style="font-weight:normal">T. Makinen</a>, F. Li, and A. Silvestrini. _Bank for International Settlements (BIS) Working Papers n. 894_.
+[comment]: <> Se voglio mettere un link ad una pagina web di un coautore, ad esempio Taneli, mettere <a href="https://tanelimakinen.github.io" style="font-weight:normal">T. Makinen</a>
+- **Effects of eligibility for central bank purchases on corporate bond spreads**, with <a href="https://tanelimakinen.github.io" style="font-weight:normal">T. Makinen</a>, F. Li, and A. Silvestrini. _Bank for International Settlements (BIS) Working Papers n. 894_.
 - **Evaluation of language training programs in Luxembourg using Principal Stratification**. (2018) with M. Bia and A. Flores-Lagunes. _IZA, Institute of Labor Economics, Discussion papers series, n. 11973_.
 
 ## Works in progress
