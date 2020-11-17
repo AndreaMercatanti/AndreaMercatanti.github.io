@@ -12,7 +12,7 @@ I am an econometrician at the Bank of Italy (Eurosystem) and hold a MS (Hons) in
 # Publications
 [comment]: <> (## Peer-reviewed Articles)
 - **A Regression Discontinuity Design for ordinal running variables: evaluating Central Bank purchases of corporate bonds**. with F. Li, T. Makinen, and A. Silvestrini. _The Annals of Applied Statistics_. Forthcoming.
-- **Identifying types in contest experiments**. with F. Fallucchi and J. Niederreiter. _International Journal of Game Theory_. Published online: _https://doi.org/10.1007/s00182-020-00738-w_. 
+- **Identifying types in contest experiments**. (2020) with F. Fallucchi and J. Niederreiter. _International Journal of Game Theory_. Published online: _https://doi.org/10.1007/s00182-020-00738-w_. 
 - **The role of financial factors for European corporate investment**. (2019) with T. Makinen and A. Silvestrini. _Journal of International Money and Finance_, Vol. 96.
 - **Do debit cards decrease cash demand?: Causal inference and sensitivity analysis using Principal Stratification**. (2017) with F. Li. _Journal of the Royal Statistical Society: Series C (Applied Statistics)_, Vol. 66.
 - **Improving inference of Gaussian mixtures using auxiliary variables**. (2015) with F. Li and F. Mealli. _Statistical Analysis and Data Mining_, Vol. 8.
@@ -26,7 +26,7 @@ Statistics_, Vol. 55.
 
 ## Working papers
 [comment]: <> (Se voglio mettere un link ad una pagina web di un coautore, ad esempio Taneli, mettere <a href="https://tanelimakinen.github.io" style="font-weight:normal">T. Makinen</a>)
-- **Effects of eligibility for central bank purchases on corporate bond spreads**, with T. Makinen, F. Li, and A. Silvestrini. _Bank for International Settlements (BIS) Working Papers n. 894_.
+- **Effects of eligibility for central bank purchases on corporate bond spreads**. (2020) with T. Makinen, F. Li, and A. Silvestrini. _Bank for International Settlements (BIS) Working Papers n. 894_.
 - **Evaluation of language training programs in Luxembourg using Principal Stratification**. (2018) with M. Bia and A. Flores-Lagunes. _IZA, Institute of Labor Economics, Discussion papers series, n. 11973_.
 
 ## Works in progress
