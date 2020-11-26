@@ -11,6 +11,7 @@ I am an econometrician at the Bank of Italy (Eurosystem) and hold a MS (Hons) in
 
 # Publications
 [comment]: <> (## Peer-reviewed Articles)
+- **Assessing Causal Effects in a longitudinal observational study with “truncated” outcomes due to unemployment and nonignorable missing data**, with M .Bia and A. Mattei. _Journal of Businnes and Economic Statistics_. Forthcoming.
 - **A Regression Discontinuity Design for ordinal running variables: evaluating Central Bank purchases of corporate bonds**. with F. Li, T. Makinen, and A. Silvestrini. _The Annals of Applied Statistics_. Forthcoming.
 - **Identifying types in contest experiments**. (2020) with F. Fallucchi and J. Niederreiter. _International Journal of Game Theory_. Published online: _https://doi.org/10.1007/s00182-020-00738-w_. 
 - **The role of financial factors for European corporate investment**. (2019) with T. Makinen and A. Silvestrini. _Journal of International Money and Finance_, Vol. 96.
@@ -31,7 +32,6 @@ Statistics_, Vol. 55.
 
 ## Works in progress
 - **A joint Bayesian framework for causal inference and bipartite matching for record linkage**, with S. Guha and J. Reiter.
-- **Assessing Causal Effects in a longitudinal observational study with “truncated” outcomes due to unemployment and nonignorable missing data**, with M .Bia and A. Mattei.
 - **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions**, with A. Albanese, F. Li, and J. Poulos.
 - **Spillover effects of central bank asset purchases** with T. Makinen and A. Silvestrini.  
 
