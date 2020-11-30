@@ -7,11 +7,11 @@ I am an econometrician at the Bank of Italy (Eurosystem) and hold a MS (Hons) in
 [comment]: <> (andrea.mercatanti@bancaditalia.it)
 
 # Research interests
-- Causal inference, policy evaluation, applied microeconometrics.
+- Causal inference, policy evaluation and applied microeconometrics.
 
 # Publications
 [comment]: <> (## Peer-reviewed Articles)
-- **Assessing Causal Effects in a longitudinal observational study with “truncated” outcomes due to unemployment and nonignorable missing data**, with M .Bia and A. Mattei. _Journal of Business and Economic Statistics_. Forthcoming.
+- **Assessing Causal Effects in a longitudinal observational study with “truncated” outcomes due to unemployment and nonignorable missing data**, with M. Bia and A. Mattei. _Journal of Business and Economic Statistics_. Forthcoming.
 - **A Regression Discontinuity Design for ordinal running variables: evaluating Central Bank purchases of corporate bonds**. with F. Li, T. Makinen, and A. Silvestrini. _The Annals of Applied Statistics_. Forthcoming.
 - **Identifying types in contest experiments**. (2020) with F. Fallucchi and J. Niederreiter. _International Journal of Game Theory_. Published online: _https://doi.org/10.1007/s00182-020-00738-w_. 
 - **The role of financial factors for European corporate investment**. (2019) with T. Makinen and A. Silvestrini. _Journal of International Money and Finance_, Vol. 96.
