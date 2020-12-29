@@ -11,8 +11,8 @@ I am an econometrician at the Bank of Italy (Eurosystem) and hold an MS (Hons) i
 
 # Publications
 [comment]: <> (## Peer-reviewed Articles)
-- **Assessing Causal Effects in a longitudinal observational study with “truncated” outcomes due to unemployment and nonignorable missing data**, with M. Bia and A. Mattei. _Journal of Business and Economic Statistics_. Forthcoming.
 - **A Regression Discontinuity Design for ordinal running variables: evaluating Central Bank purchases of corporate bonds**. with F. Li, T. Makinen, and A. Silvestrini. _The Annals of Applied Statistics_. Forthcoming.
+- **Assessing Causal Effects in a longitudinal observational study with “truncated” outcomes due to unemployment and nonignorable missing data**. (2020) with M. Bia and A. Mattei. _Journal of Business and Economic Statistics_. Published online: _https://doi.org/10.1080/07350015.2020.1862672_
 - **Identifying types in contest experiments**. (2020) with F. Fallucchi and J. Niederreiter. _International Journal of Game Theory_. Published online: _https://doi.org/10.1007/s00182-020-00738-w_. 
 - **The role of financial factors for European corporate investment**. (2019) with T. Makinen and A. Silvestrini. _Journal of International Money and Finance_, Vol. 96.
 - **Do debit cards decrease cash demand?: Causal inference and sensitivity analysis using Principal Stratification**. (2017) with F. Li. _Journal of the Royal Statistical Society: Series C (Applied Statistics)_, Vol. 66.
