@@ -29,8 +29,8 @@ Statistics_, Vol. 55.
 [comment]: <> (Se voglio mettere un link ad una pagina web di un coautore, ad esempio Taneli, mettere <a href="https://tanelimakinen.github.io" style="font-weight:normal">T. Makinen</a>)
 - **A joint Bayesian framework for causal inference and bipartite matching for record linkage**. (2021) with S. Guha and J. Reiter. _arXiv:2002.09119v2 [stat.ME]_.
 - **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions**. (2021) with A. Albanese, F. Li, and J. Poulos.  _IZA, Institute of Labor Economics, Discussion papers series, n. 14472_.
-- **Evaluation of language training programs in Luxembourg using Principal Stratification**. (2018) with M. Bia and A. Flores-Lagunes. _IZA, Institute of Labor Economics, Discussion papers series, n. 11973_.
 - **Effects of eligibility for central bank purchases on corporate bond spreads**. (2020) with T. Makinen, F. Li, and A. Silvestrini. _Bank for International Settlements (BIS) Working Papers n. 894_.
+- **Evaluation of language training programs in Luxembourg using Principal Stratification**. (2018) with M. Bia and A. Flores-Lagunes. _IZA, Institute of Labor Economics, Discussion papers series, n. 11973_.
 
 ## Works in progress
 <!---
