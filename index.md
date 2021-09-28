@@ -11,7 +11,7 @@ I am an econometrician at the Bank of Italy (Eurosystem) and hold an MS (Hons) i
 
 # Publications
 [comment]: <> (## Peer-reviewed Articles)
-- **Evaluation of language training programs in Luxembourg using Principal Stratification**. (2018) with M. Bia and A. Flores-Lagunes. _Observational Studies_ Forthcoming.
+- **Evaluation of language training programs in Luxembourg using Principal Stratification**. with M. Bia and A. Flores-Lagunes. _Observational Studies_ Forthcoming.
 - **Assessing Causal Effects in a longitudinal observational study with “truncated” outcomes due to unemployment and nonignorable missing data**. (2021) with M. Bia and A. Mattei. _Journal of Business and Economic Statistics_. Published online: <a href="https://doi.org/10.1080/07350015.2020.1862672" style="font-weight:normal">https://doi.org/10.1080/07350015.2020.1862672</a>.
 - **A Regression Discontinuity Design for ordinal running variables: evaluating Central Bank purchases of corporate bonds**. (2021) with F. Li, T. Makinen, and A. Silvestrini. _The Annals of Applied Statistics_. Vol. 15.
 - **Identifying types in contest experiments**. (2021) with F. Fallucchi and J. Niederreiter. _International Journal of Game Theory_. Vol. 5.
