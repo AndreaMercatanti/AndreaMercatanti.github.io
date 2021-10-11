@@ -11,6 +11,7 @@ I am an econometrician at the Bank of Italy (Eurosystem) and hold an MS (Hons) i
 
 # Publications
 [comment]: <> (## Peer-reviewed Articles)
+- **A joint Bayesian framework for causal inference and bipartite matching for record linkage**. (2021) with S. Guha and J. Reiter. _Bayesian Analysis_. Forthcoming.
 - **Evaluation of language training programs in Luxembourg using Principal Stratification**. with M. Bia and A. Flores-Lagunes. _Observational Studies_. Forthcoming.
 - **Assessing Causal Effects in a longitudinal observational study with “truncated” outcomes due to unemployment and nonignorable missing data**. (2021) with M. Bia and A. Mattei. _Journal of Business and Economic Statistics_. Published online: <a href="https://doi.org/10.1080/07350015.2020.1862672" style="font-weight:normal">https://doi.org/10.1080/07350015.2020.1862672</a>.
 - **A Regression Discontinuity Design for ordinal running variables: evaluating Central Bank purchases of corporate bonds**. (2021) with F. Li, T. Makinen, and A. Silvestrini. _The Annals of Applied Statistics_. Vol. 15.
@@ -28,7 +29,6 @@ Statistics_, Vol. 55.
 
 ## Working papers
 [comment]: <> (Se voglio mettere un link ad una pagina web di un coautore, ad esempio Taneli, mettere <a href="https://tanelimakinen.github.io" style="font-weight:normal">T. Makinen</a>)
-- **A joint Bayesian framework for causal inference and bipartite matching for record linkage**. (2021) with S. Guha and J. Reiter. _arXiv:2002.09119v2 [stat.ME]_.
 - **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions**. (2021) with A. Albanese, F. Li, and J. Poulos.  _IZA, Institute of Labor Economics, Discussion papers series, n. 14472_.
 - **Effects of eligibility for central bank purchases on corporate bond spreads**. (2020) with T. Makinen, F. Li, and A. Silvestrini. _Bank for International Settlements (BIS) Working Papers n. 894_.
 
