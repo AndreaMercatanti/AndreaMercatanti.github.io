@@ -1,4 +1,4 @@
-I am Senior Researcher at the Department of Economics of the University of Verona (Italy) and hold an MS (Hons) in Economics, and a PhD in Applied Statistics both from the University of Florence.
+I am a Senior Researcher at the Department of Economics of the University of Verona (Italy) and hold an MS (Hons) in Economics, and a PhD in Applied Statistics both from the University of Florence.
 
 [comment]: <> (Department of Economics\)
 [comment]: <> (University of Verona\)
