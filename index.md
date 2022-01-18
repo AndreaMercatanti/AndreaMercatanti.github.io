@@ -41,11 +41,11 @@ Statistics_, Vol. 55.
 
 # Contacts
 Andrea Mercatanti\
-Bank of Italy\
-Directorate General for Economics, Statistics and Research\
-Via Nazionale 91\
-00184 Rome, Italy\
-Email: andrea.mercatanti@bancaditalia.it
+University of Verona\
+Department of Economics\
+Via Cantarane 24\
+37129 Verona, Italy\
+Email: andrea.mercatanti@univr.it
 
 <!---
 
