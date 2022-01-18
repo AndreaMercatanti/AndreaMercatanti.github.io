@@ -41,8 +41,8 @@ Statistics_, Vol. 55.
 
 # Contacts
 Andrea Mercatanti\
-University of Verona\
 Department of Economics\
+University of Verona\
 Via Cantarane 24\
 37129 Verona, Italy\
 Email: andrea.mercatanti@univr.it
