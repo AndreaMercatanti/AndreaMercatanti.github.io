@@ -1,10 +1,11 @@
-I am an econometrician at the Bank of Italy (Eurosystem) and hold an MS (Hons) in Economics, and a PhD in Applied Statistics both from the University of Florence.
+I am Senior Researcher at the Department of Economics of the University of Verona (Italy) and hold an MS (Hons) in Economics, and a PhD in Applied Statistics both from the University of Florence.
 
-[comment]: <> (Bank of Italy\)
-[comment]: <> (Via Nazionale 91\)
-[comment]: <> (00141 Rome\)
+[comment]: <> (Department of Economics\)
+[comment]: <> (University of Verona\)
+[comment]: <> (Via Cantarane 24\)
+[comment]: <> (37129 Verona\)
 [comment]: <> (Italy\)
-[comment]: <> (andrea.mercatanti@bancaditalia.it)
+[comment]: <> (andrea.mercatanti@univr.it)
 
 # Research interests
 - Causal inference, policy evaluation and applied microeconometrics.
