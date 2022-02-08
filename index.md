@@ -30,14 +30,14 @@ Statistics_, Vol. 55.
 
 ## Working papers
 [comment]: <> (Se voglio mettere un link ad una pagina web di un coautore, ad esempio Taneli, mettere <a href="https://tanelimakinen.github.io" style="font-weight:normal">T. Makinen</a>)
-- **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions** (2021) with A. Albanese, F. Li, and J. Poulos.  _IZA, Institute of Labor Economics, Discussion papers series, n. 14472_.
 - **Effects of eligibility for central bank purchases on corporate bond spreads** (2020) with T. Makinen, F. Li, and A. Silvestrini. _Bank for International Settlements (BIS) Working Papers n. 894_.
 
 ## Works in progress
 <!---
 - **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions**, with A. Albanese, F. Li, and J. Poulos.
 -->
-- **Spillover effects of central bank asset purchases**, with T. Makinen and A. Silvestrini.  
+- **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions** with A. Albanese, F. Li, and J. Poulos. Currently in _IZA, Institute of Labor Economics, Discussion papers series, n. 14472_.
+- **Syntehtic spillovers**, with T. Makinen and A. Silvestrini.
 
 # Contacts
 Andrea Mercatanti\
