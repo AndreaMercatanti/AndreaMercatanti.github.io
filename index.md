@@ -27,7 +27,7 @@ Statistics_, Vol. 55.
 - **Household wealth in a cross-country perspective** (2012) with L. Bartiloro, M. Coletta, and R. De Bonis, R, in _The financial systems of industrialized countries. Evidence from the financial accounts_, R. De Bonis and A. Pozzolo, Ed.s, Springer, Chapter 4.
 - **The importance of mixture models in causal inference methods** (2005) in _Modelli statistici per l’analisi della transizione Università – lavoro_ (in Italian),  C.Crocetta editor, CLEUP, pp 279-291.
 - **Analyzing a randomized experiment with imperfect compliance and ignorable conditions for missing data: theoretical and computational issues** (2004) _Computational Statistics and Data Analysis_, Vol. 46.
-- **La gestione dei dati mancanti nei modelli di inferenza causale: il caso degli esperimenti naturali** (2004) in _Strategie metodologiche per lo studio della transizione Università – lavoro_ (in Italian), E. Aureli Cutillo editor, CLEUP}, pp 271-278.
+- **La gestione dei dati mancanti nei modelli di inferenza causale: il caso degli esperimenti naturali** (2004) in _Strategie metodologiche per lo studio della transizione Università – lavoro_ (in Italian), E. Aureli Cutillo editor, CLEUP, pp 271-278.
 - **Effects of the use of debit and credit cards on Italian families liquidity: an empirical evaluation** (2002) _Italian Journal of Applied Statistics_, Vol. 14.
 
 ## Working papers
