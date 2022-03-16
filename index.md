@@ -11,7 +11,7 @@ I am a Senior Researcher at the Department of Economics of the University of Ver
 - Causal inference, policy evaluation and applied microeconometrics.
 
 # Publications
-## Peer-reviewed Articles
+## Articles (peer-reviewed)
 - **Evaluation of language training programs in Luxembourg using principal stratification**, with M. Bia and A. Flores-Lagunes. _Observational Studies_. Forthcoming.
 - **A joint Bayesian framework for causal inference and bipartite matching for record linkage** (2022) with S. Guha and J. Reiter. _Bayesian Analysis_. Published online: <a href="https://doi.org/10.1214/21-BA1297" style="font-weight:normal">https://doi.org/10.1214/21-BA1297</a>..
 - **Assessing Causal Effects in a longitudinal observational study with “truncated” outcomes due to unemployment and nonignorable missing data** (2021) with M. Bia and A. Mattei. _Journal of Business and Economic Statistics_. Published online: <a href="https://doi.org/10.1080/07350015.2020.1862672" style="font-weight:normal">https://doi.org/10.1080/07350015.2020.1862672</a>.
