@@ -11,7 +11,7 @@ I am a Senior Researcher at the Department of Economics of the University of Ver
 - Causal inference, policy evaluation and applied microeconometrics.
 
 # Publications
-[comment]: <> (## Peer-reviewed Articles)
+## Peer-reviewed Articles
 - **Evaluation of language training programs in Luxembourg using principal stratification**, with M. Bia and A. Flores-Lagunes. _Observational Studies_. Forthcoming.
 - **A joint Bayesian framework for causal inference and bipartite matching for record linkage** (2022) with S. Guha and J. Reiter. _Bayesian Analysis_. Published online: <a href="https://doi.org/10.1214/21-BA1297" style="font-weight:normal">https://doi.org/10.1214/21-BA1297</a>..
 - **Assessing Causal Effects in a longitudinal observational study with “truncated” outcomes due to unemployment and nonignorable missing data** (2021) with M. Bia and A. Mattei. _Journal of Business and Economic Statistics_. Published online: <a href="https://doi.org/10.1080/07350015.2020.1862672" style="font-weight:normal">https://doi.org/10.1080/07350015.2020.1862672</a>.
@@ -29,7 +29,8 @@ Statistics_, Vol. 55.
 - **Analyzing a randomized experiment with imperfect compliance and ignorable conditions for missing data: theoretical and computational issues** (2004) _Computational Statistics and Data Analysis_, Vol. 46.
 - **Missing data and causal inference in natural experiments** (2004) in _Strategie metodologiche per lo studio della transizione Università – lavoro_ (in Italian), E. Aureli Cutillo editor, CLEUP, pp 271-278.
 - **Effects of the use of debit and credit cards on Italian families liquidity: an empirical evaluation** (2002) _Italian Journal of Applied Statistics_, Vol. 14.
-
+## Chapters in books (peer-reviewed)
+- **Missing data and causal inference in natural experiments** (2004) in _Strategie metodologiche per lo studio della transizione Università – lavoro_ (in Italian), E. Aureli Cutillo editor, CLEUP, pp 271-278.
 ## Working papers
 [comment]: <> (Se voglio mettere un link ad una pagina web di un coautore, ad esempio Taneli, mettere <a href="https://tanelimakinen.github.io" style="font-weight:normal">T. Makinen</a>)
 - **Effects of eligibility for central bank purchases on corporate bond spreads** (2020) with T. Makinen, F. Li, and A. Silvestrini. _Bank for International Settlements (BIS) Working Papers n. 894_.
