@@ -12,6 +12,7 @@ I am a Senior Researcher at the Department of Economics of the University of Ver
 
 # Publications
 ## Articles (peer-reviewed)
+- **Effects** (2020) with T. Makinen, F. Li, and A. Silvestrini. Causal analysis of central bank holdings of corporate bonds under interference. _Economic Modelling_. Forthcoming.
 - **Evaluation of language training programs in Luxembourg using principal stratification**, with M. Bia and A. Flores-Lagunes. _Observational Studies_. Forthcoming.
 - **A joint Bayesian framework for causal inference and bipartite matching for record linkage** (2022) with S. Guha and J. Reiter. _Bayesian Analysis_. Published online: <a href="https://doi.org/10.1214/21-BA1297" style="font-weight:normal">https://doi.org/10.1214/21-BA1297</a>..
 - **Assessing Causal Effects in a longitudinal observational study with “truncated” outcomes due to unemployment and nonignorable missing data** (2021) with M. Bia and A. Mattei. _Journal of Business and Economic Statistics_. Published online: <a href="https://doi.org/10.1080/07350015.2020.1862672" style="font-weight:normal">https://doi.org/10.1080/07350015.2020.1862672</a>.
@@ -30,9 +31,9 @@ Statistics_, Vol. 55.
 - **Household wealth in a cross-country perspective** (2012) with L. Bartiloro, M. Coletta, and R. De Bonis, R, in _The financial systems of industrialized countries. Evidence from the financial accounts_, R. De Bonis and A. Pozzolo, Ed.s, Springer, Chapter 4.
 - **The importance of mixture models in causal inference methods** (2005) in _Modelli statistici per l’analisi della transizione Università – lavoro_ (in Italian),  C.Crocetta editor, CLEUP, pp 279-291.
 - **Missing data and causal inference in natural experiments** (2004) in _Strategie metodologiche per lo studio della transizione Università – lavoro_ (in Italian), E. Aureli Cutillo editor, CLEUP, pp 271-278.
-## Working papers
+<!--- ## Working papers
 [comment]: <> (Se voglio mettere un link ad una pagina web di un coautore, ad esempio Taneli, mettere <a href="https://tanelimakinen.github.io" style="font-weight:normal">T. Makinen</a>)
-- **Effects of eligibility for central bank purchases on corporate bond spreads** (2020) with T. Makinen, F. Li, and A. Silvestrini. _Bank for International Settlements (BIS) Working Papers n. 894_.
+-->
 
 ## Works in progress
 <!---
