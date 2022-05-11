@@ -13,7 +13,7 @@ I am a Senior Researcher at the Department of Economics of the University of Ver
 # Publications
 ## Articles (peer-reviewed)
 - **Evaluation of language training programs in Luxembourg using principal stratification**, with M. Bia and A. Flores-Lagunes. _Observational Studies_. Forthcoming.
-- **Causal analysis of central bank holdings of corporate bonds under interference** with T. Makinen, F. Li, and A. Silvestrini. _Economic Modelling_. Published online: <a href="https://doi.org/10.1016/j.econmod.2022.105873" style="font-weight:normal">https://doi.org/10.1016/j.econmod.2022.105873</a>.
+- **Causal analysis of central bank holdings of corporate bonds under interference** (2022) with T. Makinen, F. Li, and A. Silvestrini. _Economic Modelling_. Published online: <a href="https://doi.org/10.1016/j.econmod.2022.105873" style="font-weight:normal">https://doi.org/10.1016/j.econmod.2022.105873</a>.
 - **A joint Bayesian framework for causal inference and bipartite matching for record linkage** (2022) with S. Guha and J. Reiter. _Bayesian Analysis_. Published online: <a href="https://doi.org/10.1214/21-BA1297" style="font-weight:normal">https://doi.org/10.1214/21-BA1297</a>.
 - **Assessing Causal Effects in a longitudinal observational study with “truncated” outcomes due to unemployment and nonignorable missing data** (2022) with M. Bia and A. Mattei. _Journal of Business and Economic Statistics_. Vol. 40.
 - **A Regression Discontinuity Design for ordinal running variables: evaluating Central Bank purchases of corporate bonds** (2021) with F. Li, T. Makinen, and A. Silvestrini. _The Annals of Applied Statistics_. Vol. 15.
