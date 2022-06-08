@@ -40,7 +40,7 @@ Statistics_, Vol. 55.
 <!---
 - **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions**, with A. Albanese, F. Li, and J. Poulos.
 -->
-- **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions** with A. Albanese, F. Li, and J. Poulos. Currently in _IZA, Institute of Labor Economics, Discussion papers series, n. 14472_.
+- **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions** with A. Albanese, F. Li, and J. Poulos. _IZA, Institute of Labor Economics, Discussion papers series, n. 14472_.
 
 # Contacts
 Andrea Mercatanti\
