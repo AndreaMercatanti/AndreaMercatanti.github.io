@@ -35,12 +35,12 @@ Statistics_, Vol. 55.
 [comment]: <> (Se voglio mettere un link ad una pagina web di un coautore, ad esempio Taneli, mettere <a href="https://tanelimakinen.github.io" style="font-weight:normal">T. Makinen</a>)
 -->
 
-## Works in progress
+[comment]: <> (## Works in progress)
+## Working papers
 <!---
 - **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions**, with A. Albanese, F. Li, and J. Poulos.
 -->
 - **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions** with A. Albanese, F. Li, and J. Poulos. Currently in _IZA, Institute of Labor Economics, Discussion papers series, n. 14472_.
-- **Syntehtic spillovers**, with T. Makinen and A. Silvestrini.
 
 # Contacts
 Andrea Mercatanti\
