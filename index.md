@@ -44,11 +44,11 @@ Statistics_, Vol. 55.
 
 # Contacts
 Andrea Mercatanti\
-Department of Economics\
-University of Verona\
-Via Cantarane 24\
-37129 Verona, Italy\
-Email: andrea.mercatanti@univr.it
+Department of Statistical Sciences\
+Sapienza University of Rome\
+P.lle Aldo Moro 5\
+00185 Rome, Italy\
+Email: andrea.mercatanti@uniroma1.it
 
 <!---
 
