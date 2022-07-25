@@ -42,6 +42,9 @@ Statistics_, Vol. 55.
 -->
 - **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions** (2021) with A. Albanese, F. Li, and J. Poulos. _IZA, Institute of Labor Economics, Discussion papers series, n. 14472_.
 
+# Professional experience
+- 2021-2022 \> Senior Researcher in Economic Statistics. Dep.t of Economics, University of Verona, Italy.
+
 # Contacts
 Andrea Mercatanti\
 Department of Statistical Sciences\
