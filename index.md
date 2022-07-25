@@ -46,6 +46,10 @@ Statistics_, Vol. 55.
 - 2021-2022 Senior Researcher in Economic Statistics. Dep.t of Economics, University of Verona, Italy.
 - 2019-2021 Statistician. Statistical Data Collection and Processing Directorate, Bank of Italy, Rome, Italy.
 - 2016-2019 Researcher (on leave from the Bank of Italy). LISER Luxembourg Institute of Socio-Economic Research, Esch-sur-Alzette/Belval, Luxembourg.
+- 2014 Research Fellow. SAMSI, Statistical and Applied Mathematical Sciences Institute, Research Triangle Park, North Carolina, USA.
+- 2008-2015 Statistician. Statistical Analysis Directorate, Bank of Italy, Rome, Italy.
+- 2005-2008 Statistician. Payment Systems Directorate, Bank of Italy, Rome, Italy.
+- 2000-2004 Postdoc position in Statistics. Dep.t of Statistics and Applied Mathematics, University of Pisa, Italy.
 
 # Contacts
 Andrea Mercatanti\
