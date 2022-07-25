@@ -43,13 +43,14 @@ Statistics_, Vol. 55.
 - **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions** (2021) with A. Albanese, F. Li, and J. Poulos. _IZA, Institute of Labor Economics, Discussion papers series, n. 14472_.
 
 # Professional experience
-- 2021-2022 Senior Researcher in Economic Statistics. Dep.t of Economics, University of Verona, Italy.
-- 2019-2021 Statistician. Statistical Data Collection and Processing Directorate, Bank of Italy, Rome, Italy.
-- 2016-2019 Researcher (on leave from the Bank of Italy). LISER Luxembourg Institute of Socio-Economic Research, Esch-sur-Alzette/Belval, Luxembourg.
-- 2014 Research Fellow. SAMSI, Statistical and Applied Mathematical Sciences Institute, Research Triangle Park, North Carolina, USA.
-- 2008-2015 Statistician. Statistical Analysis Directorate, Bank of Italy, Rome, Italy.
-- 2005-2008 Statistician. Payment Systems Directorate, Bank of Italy, Rome, Italy.
-- 2000-2004 Postdoc position in Statistics. Dep.t of Statistics and Applied Mathematics, University of Pisa, Italy.
+- 2022-present Senior Researcher in Econometrics at the Dep.t of Statistical Sciences, Sapienza University of Rome, Italy.
+- 2021-2022 Senior Researcher in Economic Statistics at the Dep.t of Economics, University of Verona, Italy.
+- 2019-2021 Statistician at the Statistical Data Collection and Processing Directorate, Bank of Italy, Rome, Italy.
+- 2016-2019 Researcher (on leave from the Bank of Italy) at LISER Luxembourg Institute of Socio-Economic Research, Esch-sur-Alzette/Belval, Luxembourg.
+- 2014 Research Fellow at SAMSI, Statistical and Applied Mathematical Sciences Institute, Research Triangle Park, North Carolina, USA.
+- 2008-2015 Statistician. at the Statistical Analysis Directorate, Bank of Italy, Rome, Italy.
+- 2005-2008 Statistician at the Payment Systems Directorate, Bank of Italy, Rome, Italy.
+- 2000-2004 Postdoc position in Statistics at the Dep.t of Statistics and Applied Mathematics, University of Pisa, Italy.
 
 # Contacts
 Andrea Mercatanti\
