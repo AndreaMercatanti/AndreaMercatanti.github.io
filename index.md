@@ -12,8 +12,8 @@ I am a Senior Researcher at the Department of Statistical Sciences of the Sapien
 
 # Publications
 ## Articles (peer-reviewed)
-- **Causal analysis of central bank holdings of corporate bonds under interference** (2022) with T. Makinen, F. Li, and A. Silvestrini. _Economic Modelling_. Vol. 113.
 - **A joint Bayesian framework for causal inference and bipartite matching for record linkage** (2022) with S. Guha and J. Reiter. _Bayesian Analysis_. Vol. 17.
+- **Causal analysis of central bank holdings of corporate bonds under interference** (2022) with T. Makinen, F. Li, and A. Silvestrini. _Economic Modelling_. Vol. 113.
 - **Evaluation of language training programs in Luxembourg using principal stratification** (2022) with M. Bia and A. Flores-Lagunes. _Observational Studies_. Vol. 8.
 - **Assessing Causal Effects in a longitudinal observational study with “truncated” outcomes due to unemployment and nonignorable missing data** (2022) with M. Bia and A. Mattei. _Journal of Business and Economic Statistics_. Vol. 40.
 - **A Regression Discontinuity Design for ordinal running variables: evaluating Central Bank purchases of corporate bonds** (2021) with F. Li, T. Makinen, and A. Silvestrini. _The Annals of Applied Statistics_. Vol. 15.
