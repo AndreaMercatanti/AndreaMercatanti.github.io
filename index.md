@@ -46,7 +46,7 @@ Statistics_, Vol. 55.
 - 2022-present: Senior Researcher in Econometrics at the Dep.t of Statistical Sciences, Sapienza University of Rome, Italy.
 - 2021-2022: Senior Researcher in Economic Statistics at the Dep.t of Economics, University of Verona, Italy.
 - 2019-2021: Statistician at the Statistical Data Collection and Processing Directorate, Bank of Italy, Rome, Italy.
-- 2016-2019: Researcher (on leave from the Bank of Italy) at LISER Luxembourg Institute of Socio-Economic Research, Esch-sur-Alzette/Belval, Luxembourg.
+- 2016-2019: Researcher at LISER Luxembourg Institute of Socio-Economic Research, Esch-sur-Alzette/Belval, Luxembourg.
 - 2014: Research Fellow at SAMSI, Statistical and Applied Mathematical Sciences Institute, Research Triangle Park, North Carolina, USA.
 - 2008-2015: Statistician at the Statistical Analysis Directorate, Bank of Italy, Rome, Italy.
 - 2005-2008: Statistician at the Payment Systems Directorate, Bank of Italy, Rome, Italy.
