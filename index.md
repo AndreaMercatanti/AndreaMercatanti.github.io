@@ -42,7 +42,7 @@ Statistics_, Vol. 55.
 -->
 - **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions** (2021) with A. Albanese, F. Li, and J. Poulos. _IZA, Institute of Labor Economics, Discussion papers series, n. 14472_.
 
-# Teaching
+# Current teaching
 - 2023-24: Applied Econometrics; course for the Master degree in Statistical Methods and Applications, Sapienza University of Rome, Italy.
 - 2022-24: Econometrics; course for the Bachelor degrees in Statistics, Economics and Society, and in Statistics, Economics, Finance and Insurance, Sapienza University of Rome, Italy.
 
