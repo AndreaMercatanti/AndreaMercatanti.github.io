@@ -42,15 +42,19 @@ Statistics_, Vol. 55.
 -->
 - **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions** (2021) with A. Albanese, F. Li, and J. Poulos. _IZA, Institute of Labor Economics, Discussion papers series, n. 14472_.
 
+# Teaching
+- 2023-24: Applied Econometrics; course for the Master degree in Statistical Methods and Applications, Sapienza University of Rome, Italy.
+- 2022-24: Econometrics; course for the Bachelor degrees in Statistics, Economics and Society, and in Statistics, Economics, Finance and Insurance, Sapienza University of Rome, Italy.
+
 # Professional experience
 - 2022-present: Senior Researcher in Econometrics at the Dep.t of Statistical Sciences, Sapienza University of Rome, Italy.
-- 2021-2022: Senior Researcher in Economic Statistics at the Dep.t of Economics, University of Verona, Italy.
-- 2019-2021: Statistician at the Statistical Data Collection and Processing Directorate, Bank of Italy, Rome, Italy.
-- 2016-2019: Researcher at LISER Luxembourg Institute of Socio-Economic Research, Esch-sur-Alzette/Belval, Luxembourg.
+- 2021-22: Senior Researcher in Economic Statistics at the Dep.t of Economics, University of Verona, Italy.
+- 2019-21: Statistician at the Statistical Data Collection and Processing Directorate, Bank of Italy, Rome, Italy.
+- 2016-19: Researcher at LISER Luxembourg Institute of Socio-Economic Research, Esch-sur-Alzette/Belval, Luxembourg.
 - 2014: Research Fellow at SAMSI, Statistical and Applied Mathematical Sciences Institute, Research Triangle Park, North Carolina, USA.
-- 2008-2015: Statistician at the Statistical Analysis Directorate, Bank of Italy, Rome, Italy.
-- 2005-2008: Statistician at the Payment Systems Directorate, Bank of Italy, Rome, Italy.
-- 2000-2004: Postdoc position in Statistics at the Dep.t of Statistics and Applied Mathematics, University of Pisa, Italy.
+- 2008-15: Statistician at the Statistical Analysis Directorate, Bank of Italy, Rome, Italy.
+- 2005-08: Statistician at the Payment Systems Directorate, Bank of Italy, Rome, Italy.
+- 2000-04: Postdoc position in Statistics at the Dep.t of Statistics and Applied Mathematics, University of Pisa, Italy.
 
 # Contacts
 Andrea Mercatanti\
