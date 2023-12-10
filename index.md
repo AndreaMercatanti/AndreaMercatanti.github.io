@@ -10,6 +10,10 @@ I am a Senior Researcher at the Department of Statistical Sciences of the Sapien
 # Research interests
 - Causal inference, policy evaluation and applied microeconometrics.
 
+# Qualifications
+- Qualified as Associate Professor in Econometrics by the Italian Ministry of Education (disciplinary field 13/P5).
+- Qualified as Full Professor in Economic statistics by the Italian Ministry of Education (disciplinary field 13/D2).
+
 # Publications
 ## Articles (peer-reviewed)
 - **A joint Bayesian framework for causal inference and bipartite matching for record linkage** (2022) with S. Guha and J. Reiter. _Bayesian Analysis_. Vol. 17.
