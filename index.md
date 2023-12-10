@@ -12,7 +12,7 @@ I am a Senior Researcher at the Department of Statistical Sciences of the Sapien
 
 # Qualifications
 - Qualified as Associate Professor in Econometrics by the Italian Ministry of Education (disciplinary field 13/P5).
-- Qualified as Full Professor in Economic statistics by the Italian Ministry of Education (disciplinary field 13/D2).
+- Qualified as Full Professor in Economic Statistics by the Italian Ministry of Education (disciplinary field 13/D2).
 
 # Publications
 ## Articles (peer-reviewed)
