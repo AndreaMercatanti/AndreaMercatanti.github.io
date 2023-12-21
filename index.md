@@ -32,6 +32,7 @@ I am a Senior Researcher at the Department of Statistical Sciences of the Sapien
 - **Assessing Causal Effects in a longitudinal observational study with “truncated” outcomes due to unemployment and nonignorable missing data** (2022) with M. Bia and A. Mattei. _Journal of Business and Economic Statistics_. Vol. 40.
 - **A Regression Discontinuity Design for ordinal running variables: evaluating Central Bank purchases of corporate bonds** (2021) with F. Li, T. Makinen, and A. Silvestrini. _The Annals of Applied Statistics_. Vol. 15.
 - **Identifying types in contest experiments** (2021) with F. Fallucchi and J. Niederreiter. _International Journal of Game Theory_. Vol. 5.
+- **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions** (2021) with A. Albanese, F. Li, and J. Poulos. _IZA, Institute of Labor Economics, Discussion papers series, n. 14472_.
 - **The role of financial factors for European corporate investment** (2019) with T. Makinen and A. Silvestrini. _Journal of International Money and Finance_, Vol. 96.
 - **Do debit cards decrease cash demand?: Causal inference and sensitivity analysis using Principal Stratification** (2017) with F. Li. _Journal of the Royal Statistical Society: Series C (Applied Statistics)_, Vol. 66.
 - **Improving inference of Gaussian mixtures using auxiliary variables** (2015) with F. Li and F. Mealli. _Statistical Analysis and Data Mining_, Vol. 8.
@@ -52,8 +53,6 @@ Statistics_, Vol. 55.
 [comment]: <> (## Works in progress)
 ## Working papers
 <!---
-- **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions**, with A. Albanese, F. Li, and J. Poulos
-
 - **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions** (2021) with A. Albanese, F. Li, and J. Poulos. _IZA, Institute of Labor Economics, Discussion papers series, n. 14472_.
 -->
 
