@@ -25,7 +25,9 @@ I am a Senior Researcher at the Department of Statistical Sciences of the Sapien
 - Qualified as Associate Professor in Econometrics by the Italian Ministry of Education (disciplinary field 13/P5).
 
 # Publications
+<!---
 ## Articles (peer-reviewed)
+-->
 - **A joint Bayesian framework for causal inference and bipartite matching for record linkage** (2022) with S. Guha and J. Reiter. _Bayesian Analysis_. Vol. 17.
 - **Causal analysis of central bank holdings of corporate bonds under interference** (2022) with T. Makinen, F. Li, and A. Silvestrini. _Economic Modelling_. Vol. 113.
 - **Evaluation of language training programs in Luxembourg using principal stratification** (2022) with M. Bia and A. Flores-Lagunes. _Observational Studies_. Vol. 8.
@@ -36,29 +38,32 @@ I am a Senior Researcher at the Department of Statistical Sciences of the Sapien
 - **The role of financial factors for European corporate investment** (2019) with T. Makinen and A. Silvestrini. _Journal of International Money and Finance_, Vol. 96.
 - **Do debit cards decrease cash demand?: Causal inference and sensitivity analysis using Principal Stratification** (2017) with F. Li. _Journal of the Royal Statistical Society: Series C (Applied Statistics)_, Vol. 66.
 - **Improving inference of Gaussian mixtures using auxiliary variables** (2015) with F. Li and F. Mealli. _Statistical Analysis and Data Mining_, Vol. 8.
+- **Bayesian inference for causal effects with noncompliance and nonignorable missing data** (2015) in _Advances in complex data modeling and computational methods in statistics_, A.M. Paganoni and P. Secchi editors, Springer, pp 161-172.
 - **Do debit cards increase household spending? Evidence from a semiparametric causal analysis of a survey** (2014) with F. Li. _The Annals of Applied Statistics_, Vol. 8.
 - **A likelihood-based analysis for relaxing the exclusion restriction in randomized experiments with nonmcompliance** (2013) _Australian and New Zealand Journal of
 Statistics_, Vol. 55.
+- **Household wealth in a cross-country perspective** (2012) with L. Bartiloro, M. Coletta, and R. De Bonis, R, in _The financial systems of industrialized countries. Evidence from the financial accounts_, R. De Bonis and A. Pozzolo, Ed.s, Springer, Chapter 4.
+- **The importance of mixture models in causal inference methods** (2005) in _Modelli statistici per l’analisi della transizione Università – lavoro_ (in Italian),  C.Crocetta editor, CLEUP, pp 279-291.
 - **Analyzing a randomized experiment with imperfect compliance and ignorable conditions for missing data: theoretical and computational issues** (2004) _Computational Statistics and Data Analysis_, Vol. 46.
+- **Missing data and causal inference in natural experiments** (2004) in _Strategie metodologiche per lo studio della transizione Università – lavoro_ (in Italian), E. Aureli Cutillo editor, CLEUP, pp 271-278.
 - **Effects of the use of debit and credit cards on Italian families liquidity: an empirical evaluation** (2002) _Italian Journal of Applied Statistics_, Vol. 14.
+<!---
 ## Chapters in books (peer-reviewed)
 - **Bayesian inference for causal effects with noncompliance and nonignorable missing data** (2015) in _Advances in complex data modeling and computational methods in statistics_, A.M. Paganoni and P. Secchi editors, Springer, pp 161-172.
 - **Household wealth in a cross-country perspective** (2012) with L. Bartiloro, M. Coletta, and R. De Bonis, R, in _The financial systems of industrialized countries. Evidence from the financial accounts_, R. De Bonis and A. Pozzolo, Ed.s, Springer, Chapter 4.
 - **The importance of mixture models in causal inference methods** (2005) in _Modelli statistici per l’analisi della transizione Università – lavoro_ (in Italian),  C.Crocetta editor, CLEUP, pp 279-291.
-- **Missing data and causal inference in natural experiments** (2004) in _Strategie metodologiche per lo studio della transizione Università – lavoro_ (in Italian), E. Aureli Cutillo editor, CLEUP, pp 271-278.
-<!--- ## Working papers
-[comment]: <> (Se voglio mettere un link ad una pagina web di un coautore, ad esempio Taneli, mettere <a href="https://tanelimakinen.github.io" style="font-weight:normal">T. Makinen</a>)
--->
-
-[comment]: <> (## Works in progress)
+- **Missing data and causal inference in natural experiments** (2004) in _Strategie metodologiche per lo studio della transizione Università – lavoro_ (in Italian), E. Aureli Cutillo editor, CLEUP, pp 271-278
 ## Working papers
-<!---
 - **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions** (2021) with A. Albanese, F. Li, and J. Poulos. _IZA, Institute of Labor Economics, Discussion papers series, n. 14472_.
 -->
 
 # Current teaching
 - 2023-24: Applied Econometrics; course for the Master degree in Statistical Methods and Applications; Sapienza University of Rome, Italy.
 - 2022-24: Econometrics; course for the Bachelor degrees in Statistics, Economics and Society, and in Statistics, Economics, Finance and Insurance; Sapienza University of Rome, Italy.
+
+<!---
+[comment]: <> (Se voglio mettere un link ad una pagina web di un coautore, ad esempio Taneli, mettere <a href="https://tanelimakinen.github.io" style="font-weight:normal">T. Makinen</a>)
+-->
 
 # Contacts
 Andrea Mercatanti\
