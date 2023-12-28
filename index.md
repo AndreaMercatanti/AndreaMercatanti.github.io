@@ -24,6 +24,10 @@ I am a Senior Researcher at the Department of Statistical Sciences of the Sapien
 - Qualified as Full Professor in Economic Statistics by the Italian Ministry of Education (disciplinary field 13/D2).
 - Qualified as Associate Professor in Econometrics by the Italian Ministry of Education (disciplinary field 13/P5).
 
+# Current teaching
+- 2023-24: Applied Econometrics; course for the Master degree in Statistical Methods and Applications; Sapienza University of Rome, Italy.
+- 2022-24: Econometrics; course for the Bachelor degrees in Statistics, Economics and Society, and in Statistics, Economics, Finance and Insurance; Sapienza University of Rome, Italy.
+
 # Publications
 <!---
 ## Articles (peer-reviewed)
@@ -56,10 +60,6 @@ Statistics_, Vol. 55.
 ## Working papers
 - **Retrospective causal inference via elapsed time-weighted matrix completion, with an evaluation of the effect of the Schengen Area on the labour market of border regions** (2021) with A. Albanese, F. Li, and J. Poulos. _IZA, Institute of Labor Economics, Discussion papers series, n. 14472_.
 -->
-
-# Current teaching
-- 2023-24: Applied Econometrics; course for the Master degree in Statistical Methods and Applications; Sapienza University of Rome, Italy.
-- 2022-24: Econometrics; course for the Bachelor degrees in Statistics, Economics and Society, and in Statistics, Economics, Finance and Insurance; Sapienza University of Rome, Italy.
 
 <!---
 [comment]: <> (Se voglio mettere un link ad una pagina web di un coautore, ad esempio Taneli, mettere <a href="https://tanelimakinen.github.io" style="font-weight:normal">T. Makinen</a>)
