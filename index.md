@@ -18,11 +18,7 @@ I am a Senior Researcher at the Department of Statistical Sciences of the Sapien
 - 2014: Research Fellow at SAMSI, Statistical and Applied Mathematical Sciences Institute, Research Triangle Park, North Carolina, USA.
 - 2008-15: Statistician at the Statistical Analysis Directorate, Bank of Italy, Rome, Italy.
 - 2005-08: Statistician at the Payment Systems Directorate, Bank of Italy, Rome, Italy.
-- 2000-04: Postdoc position in Statistics at the Dep.t of Statistics and Applied Mathematics, University of Pisa, Italy. 
-
-[comment]: <> # Qualifications
-[comment]: <> - Qualified as Full Professor in Economic Statistics by the Italian Ministry of Education (disciplinary field 13/D2).
-[comment]: <> - Qualified as Associate Professor in Econometrics by the Italian Ministry of Education (disciplinary field 13/P5).
+- 2000-04: Postdoc position in Statistics at the Dep.t of Statistics and Applied Mathematics, University of Pisa, Italy.
 
 # Current teaching
 - 2023-present: Applied Econometrics; course for the Master degree in Statistical Methods and Applications; Sapienza University of Rome, Italy.
