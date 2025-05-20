@@ -20,13 +20,13 @@ I am a Senior Researcher at the Department of Statistical Sciences of the Sapien
 - 2005-08: Statistician at the Payment Systems Directorate, Bank of Italy, Rome, Italy.
 - 2000-04: Postdoc position in Statistics at the Dep.t of Statistics and Applied Mathematics, University of Pisa, Italy. 
 
-# Qualifications
-- Qualified as Full Professor in Economic Statistics by the Italian Ministry of Education (disciplinary field 13/D2).
-- Qualified as Associate Professor in Econometrics by the Italian Ministry of Education (disciplinary field 13/P5).
+[comment]: <> # Qualifications
+[comment]: <> - Qualified as Full Professor in Economic Statistics by the Italian Ministry of Education (disciplinary field 13/D2).
+[comment]: <> - Qualified as Associate Professor in Econometrics by the Italian Ministry of Education (disciplinary field 13/P5).
 
 # Current teaching
-- 2023-24: Applied Econometrics; course for the Master degree in Statistical Methods and Applications; Sapienza University of Rome, Italy.
-- 2022-24: Econometrics; course for the Bachelor degrees in Statistics, Economics and Society, and in Statistics, Economics, Finance and Insurance; Sapienza University of Rome, Italy.
+- 2023-present: Applied Econometrics; course for the Master degree in Statistical Methods and Applications; Sapienza University of Rome, Italy.
+- 2022-present: Econometrics; course for the Bachelor degrees in Statistics, Economics and Society, and in Statistics, Economics, Finance and Insurance; Sapienza University of Rome, Italy.
 
 # Publications
 <!---
