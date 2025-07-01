@@ -1,4 +1,4 @@
-I am an Associate Professor at the Department of Statistical Sciences of the Sapienza University of Rome (Italy) and hold an MS (Hons) in Economics, and a PhD in Applied Statistics both from the University of Florence.
+I am an Associate Professor of Econometrics at the Department of Statistical Sciences of the Sapienza University of Rome (Italy) and hold an MS (Hons) in Economics, and a PhD in Applied Statistics both from the University of Florence.
 
 [comment]: <> (Department of Economics\)
 [comment]: <> (University of Verona\)
@@ -11,7 +11,7 @@ I am an Associate Professor at the Department of Statistical Sciences of the Sap
 - Causal inference, policy evaluation and applied microeconometrics.
 
 # Professional experience
-- 2025-present: Associate Professor in Econometrics at the Dep.t of Statistical Sciences, Sapienza University of Rome, Italy.
+- 2025-present: Associate Professor of Econometrics at the Dep.t of Statistical Sciences, Sapienza University of Rome, Italy.
 - 2022-25: Senior Researcher in Econometrics at the Dep.t of Statistical Sciences, Sapienza University of Rome, Italy.
 - 2021-22: Senior Researcher in Economic Statistics at the Dep.t of Economics, University of Verona, Italy.
 - 2019-21: Statistician at the Statistical Data Collection and Processing Directorate, Bank of Italy, Rome, Italy.
