@@ -11,7 +11,7 @@ I am an Associate Professor at the Department of Statistical Sciences of the Sap
 - Causal inference, policy evaluation and applied microeconometrics.
 
 # Professional experience
-- 2022-present: Associate Professor in Econometrics at the Dep.t of Statistical Sciences, Sapienza University of Rome, Italy.
+- 2025-present: Associate Professor in Econometrics at the Dep.t of Statistical Sciences, Sapienza University of Rome, Italy.
 - 2022-25: Senior Researcher in Econometrics at the Dep.t of Statistical Sciences, Sapienza University of Rome, Italy.
 - 2021-22: Senior Researcher in Economic Statistics at the Dep.t of Economics, University of Verona, Italy.
 - 2019-21: Statistician at the Statistical Data Collection and Processing Directorate, Bank of Italy, Rome, Italy.
