@@ -1,4 +1,4 @@
-I am an Associate Professor of Econometrics at the Department of Statistical Sciences of the Sapienza University of Rome (Italy) and hold an MS (Hons) in Economics, and a PhD in Applied Statistics both from the University of Florence.
+I am an Associate Professor of Econometrics in the Department of Statistical Sciences at Sapienza University of Rome, and hold an MS (Hons) in Economics and a PhD in Applied Statistics, both from the University of Florence.
 
 [comment]: <> (Department of Economics\)
 [comment]: <> (University of Verona\)
