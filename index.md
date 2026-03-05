@@ -25,7 +25,7 @@ I am an Associate Professor of Econometrics in the Department of Statistical Sci
 - 2023-present: Applied Econometrics; course for the Master degree in Statistical Methods and Applications; Sapienza University of Rome, Italy.
 - 2022-present: Econometrics; course for the Bachelor degrees in Statistics, Economics and Society, and in Statistics, Economics, Finance and Insurance; Sapienza University of Rome, Italy.
 
-- # Editorial Activities
+# Editorial Activities
 - 2026-27: Associate Editor for _Statistical Methods and Applications_ (Springer).
 
 # Publications
