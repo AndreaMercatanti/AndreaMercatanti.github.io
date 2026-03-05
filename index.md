@@ -8,7 +8,7 @@ I am an Associate Professor of Econometrics in the Department of Statistical Sci
 [comment]: <> (andrea.mercatanti@univr.it)
 
 # Research interests
-- Causal inference, policy evaluation and applied microeconometrics.
+- Policy evaluation, causal inference.
 
 # Professional experience
 - 2025-present: Associate Professor of Econometrics at the Dep.t of Statistical Sciences, Sapienza University of Rome, Italy.
@@ -24,6 +24,9 @@ I am an Associate Professor of Econometrics in the Department of Statistical Sci
 # Current teaching
 - 2023-present: Applied Econometrics; course for the Master degree in Statistical Methods and Applications; Sapienza University of Rome, Italy.
 - 2022-present: Econometrics; course for the Bachelor degrees in Statistics, Economics and Society, and in Statistics, Economics, Finance and Insurance; Sapienza University of Rome, Italy.
+
+- # Editorial Activities
+- 2026-27: Associate Editor for _Statistical Methods and Applications_ (Springer).
 
 # Publications
 <!---
