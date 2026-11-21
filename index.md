@@ -32,6 +32,7 @@ I am an Associate Professor of Econometrics in the Department of Statistical Sci
 <!---
 ## Articles (peer-reviewed)
 -->
+- **Propensity score with factor loadings: evaluating the effect of the Paris Agreement on the returns of European stocks** (Forthcoming) with A. Forino and G. Morelli. _Journal of the Royal Statistical Society: Series A (Statistics in Society)_.
 - **A joint Bayesian framework for causal inference and bipartite matching for record linkage** (2022) with S. Guha and J. Reiter. _Bayesian Analysis_. Vol. 17.
 - **Causal analysis of central bank holdings of corporate bonds under interference** (2022) with T. Makinen, F. Li, and A. Silvestrini. _Economic Modelling_. Vol. 113.
 - **Evaluation of language training programs in Luxembourg using principal stratification** (2022) with M. Bia and A. Flores-Lagunes. _Observational Studies_. Vol. 8.
